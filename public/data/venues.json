@@ -1,0 +1,707 @@
+[
+  {
+    "id": 1,
+
+    "name": "Engagement Party",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Grand Banquet Hall",
+    "tags": [
+      "Good for special occassipns",
+      "Great for creative cocktail",
+      "Lively"
+    ],
+    "detail": "Grand Banquet Hall is a luxurious and spacious venue designed to host unforgettable events of all kinds. Situated in a prime location, the hall boasts an elegant interior with high ceilings, dazzling chandeliers, and a sophisticated layout that can be tailored to suit any occasion. Perfect for weddings, corporate events, galas, and milestone celebrations, Grand Banquet Hall provides a versatile space equipped with modern amenities, including advanced lighting and sound systems. The venue features a large seating capacity, ample parking, and a dedicated team of event planners to ensure every detail is flawlessly executed. Whether you’re planning an intimate gathering or a grand affair, the refined ambiance and exceptional services offered by Grand Banquet Hall promise to make your event truly special. With its blend of elegance and functionality, it’s the ideal choice for creating memories that will last a lifetime.",
+    "description": "A luxurious event space with premium catering and elegant interiors.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_02.png",
+      "/images/venues/event_04.png",
+      "/images/venues/event_08.png",
+      "/images/venues/event_07.png",
+      "/images/venues/event_06.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_09.png",
+      "/images/venues/event_04.png",
+      "/images/venues/event_02.png",
+      "/images/venues/event_10.png",
+      "/images/venues/event_16.png",
+      "/images/venues/event_11.png"
+    ],
+
+    "pricing": "$200 - $500 per event",
+    "reviews": [
+      {
+        "user": "JohnDoe",
+        "rating": 4.5,
+        "date": "January 2, 2025",
+        "comment": "Great ambiance and excellent service!"
+      },
+      {
+        "user": "JaneSmith",
+        "rating": 4.0,
+        "date": "January 2, 2025",
+        "comment": "The food was amazing, but the service was a bit slow."
+      }
+    ]
+  },
+  {
+    "id": 2,
+
+    "name": "Standard Birthday Party",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Sunset Garden",
+    "tags": ["Perfect for date nights", "Lively", "Great for wine lovers"],
+    "detail": "Sunset Garden is a picturesque outdoor venue that combines natural beauty with elegant charm, making it the perfect location for memorable events. Surrounded by lush greenery and vibrant floral arrangements, the venue offers a serene and romantic setting, ideal for weddings, receptions, and private celebrations. As the name suggests, Sunset Garden provides breathtaking views during twilight, creating a magical atmosphere for any gathering. The venue is spacious, allowing for customizable seating arrangements, and is equipped with modern amenities to ensure your event runs smoothly. Whether you’re planning an intimate ceremony or a large celebration, Sunset Garden’s tranquil environment and stunning backdrop offer an unforgettable experience for you and your guests. With exceptional service and attention to detail, this venue transforms any occasion into a truly remarkable one.",
+    "description": "A beautiful outdoor venue perfect for weddings and celebrations.",
+    "gallery": [
+      "/images/venues/event_01.avif",
+      "/images/venues/event_08.png",
+      "/images/venues/event_07.png",
+      "/images/venues/event_02.png",
+      "/images/venues/event_05.png",
+      "/images/venues/event_06.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_04.png",
+      "/images/venues/event_13.png",
+      "/images/venues/event_14.png",
+      "/images/venues/event_16.png",
+      "/images/venues/event_14.png",
+      "/images/venues/event_10.png"
+    ],
+
+    "pricing": "$300 - $700 per event",
+    "reviews": [
+      {
+        "user": "EmilyR",
+        "rating": 5.0,
+        "date": "January 2, 2025",
+        "comment": "The sunset view made our wedding unforgettable!"
+      },
+      {
+        "user": "MikeT",
+        "rating": 4.2,
+        "date": "January 2, 2025",
+        "comment": "Great venue, but parking was an issue."
+      }
+    ]
+  },
+  {
+    "id": 3,
+
+    "name": "Theme Wedding Party",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Oceanview Ballroom",
+    "tags": ["Great for wine lovers", "Live music and entertainment", "Lively"],
+
+    "detail": "Oceanview Ballroom is a stunning venue that offers breathtaking views of the ocean, providing an elegant and serene atmosphere for all kinds of events. With its floor-to-ceiling windows, the ballroom is bathed in natural light during the day and offers a magical, illuminated view of the water by night. The venue features a spacious layout, adorned with modern decor and sparkling chandeliers, making it perfect for weddings, corporate galas, parties, and milestone celebrations. Equipped with state-of-the-art sound and lighting systems, Oceanview Ballroom ensures a seamless and memorable experience for every guest. The venue also provides a professional event management team to customize every detail to your preferences. Whether you’re planning a small gathering or a grand celebration, Oceanview Ballroom delivers an unparalleled combination of luxury, comfort, and scenic beauty, making it the ideal choice for creating unforgettable moments.",
+    "description": "A stunning venue with panoramic ocean views and modern decor.",
+    "gallery": [
+      "/images/venues/event_10.png",
+      "/images/venues/event_02.png",
+      "/images/venues/event_07.png",
+      "/images/venues/event_08.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_04.png",
+      "/images/venues/event_05.png",
+      "/images/venues/event_06.png",
+      "/images/venues/event_02.png",
+      "/images/venues/event_11.png",
+      "/images/venues/event_12.png",
+      "/images/venues/event_14.png",
+      "/images/venues/event_15.png"
+    ],
+
+    "pricing": "$400 - $900 per event",
+    "reviews": [
+      {
+        "user": "SarahL",
+        "rating": 4.8,
+        "date": "January 2, 2025",
+        "comment": "Best event experience ever! The view was breathtaking."
+      },
+      {
+        "user": "DavidP",
+        "rating": 4.3,
+        "date": "January 2, 2025",
+        "comment": "Loved the food and service, but the event ran a bit late."
+      }
+    ]
+  },
+  {
+    "id": 4,
+
+    "name": "Wedding Proposal",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Mountain Lodge Retreat",
+    "tags": [
+      "Cozy and intimate setting",
+      "Good for special occassipns",
+      "Lively"
+    ],
+    "detail": "Mountain Lodge Retreat is a serene and rustic venue nestled in the heart of breathtaking mountain landscapes. Surrounded by lush forests and panoramic views, it offers a tranquil escape for events such as weddings, corporate retreats, family reunions, and milestone celebrations. The lodge combines cozy charm with modern amenities, featuring spacious indoor areas with wooden accents, stone fireplaces, and large windows that let in natural light and stunning scenery. Outdoor spaces include scenic terraces and open grounds, perfect for ceremonies, receptions, or team-building activities. Whether you’re looking for an intimate gathering or a larger event, Mountain Lodge Retreat provides a warm, welcoming environment tailored to your needs. With on-site event planning support, accommodations, and dining options, this venue ensures a seamless experience where you and your guests can create lasting memories amidst nature’s beauty.",
+    "description": "A cozy, rustic lodge nestled in the mountains for a peaceful getaway.",
+    "gallery": [
+      "/images/venues/event_11.png",
+      "/images/venues/event_12.png",
+      "/images/venues/event_09.png",
+      "/images/venues/event_10.png",
+      "/images/venues/event_15.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_04.png",
+      "/images/venues/event_05.png",
+      "/images/venues/event_06.png",
+      "/images/venues/event_07.png",
+      "/images/venues/event_08.png",
+      "/images/venues/event_02.png",
+      "/images/venues/event_01.avif"
+    ],
+
+    "pricing": "$250 - $600 per event",
+    "reviews": [
+      {
+        "user": "AnnaM",
+        "rating": 4.7,
+        "date": "January 2, 2025",
+        "comment": "Such a relaxing and beautiful place for our retreat!"
+      },
+      {
+        "user": "ChrisB",
+        "rating": 4.5,
+        "date": "January 2, 2025",
+        "comment": "Great for small gatherings, but limited seating indoors."
+      }
+    ]
+  },
+  {
+    "id": 5,
+
+    "name": "Bridal Shower",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Downtown Conference Center",
+    "tags": [
+      "Scenic views and rooftop vibes",
+      "Casual and laid-back atmosphere",
+      "Trendy "
+    ],
+    "detail": "Downtown Conference Center is a modern and versatile venue located in the heart of the city, designed to accommodate a wide range of professional events. Ideal for conferences, seminars, workshops, and corporate meetings, the center features state-of-the-art facilities, including high-speed internet, advanced audio-visual equipment, and flexible seating arrangements. Its sleek and contemporary design creates a professional atmosphere, while the spacious meeting rooms and breakout areas ensure comfort and productivity for attendees. Conveniently situated near major transportation hubs, hotels, and dining options, Downtown Conference Center offers unparalleled accessibility. The venue also provides dedicated event support staff to ensure seamless planning and execution. Whether you're hosting a small team meeting or a large-scale conference, Downtown Conference Center delivers the perfect combination of convenience, functionality, and professionalism to make your event a success.",
+    "description": "A modern venue with state-of-the-art facilities for corporate events.",
+    "gallery": [
+      "/images/venues/event_12.png",
+      "/images/venues/event_13.png",
+      "/images/venues/event_14.png",
+      "/images/venues/event_15.png",
+      "/images/venues/event_10.png",
+      "/images/venues/event_09.png",
+      "/images/venues/event_11.png",
+      "/images/venues/event_08.png",
+      "/images/venues/event_07.png",
+      "/images/venues/event_04.png",
+      "/images/venues/event_02.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_06.png"
+    ],
+
+    "pricing": "$500 - $1000 per event",
+    "reviews": [
+      {
+        "user": "MarkC",
+        "rating": 4.9,
+        "date": "January 2, 2025",
+        "comment": "Perfect for large business conferences with excellent amenities."
+      },
+      {
+        "user": "LindaW",
+        "rating": 4.6,
+        "date": "January 2, 2025",
+        "comment": "Great location and facilities, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "id": 6,
+
+    "name": "Casual Dinner Party",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Grand Banquet Hall",
+    "tags": [
+      "Must-visit for cocktail lovers",
+      "Trendy ",
+      "Best for food enthusiasts"
+    ],
+    "detail": "Grand Banquet Hall is an exquisite venue designed to host a variety of events in style and comfort. With its grand architecture, sparkling chandeliers, and lavish interiors, the hall creates an ambiance of luxury and sophistication. Perfect for weddings, corporate events, gala dinners, and milestone celebrations, the venue offers a spacious layout that can accommodate both intimate gatherings and large-scale occasions. Equipped with state-of-the-art sound and lighting systems, it ensures a seamless and memorable experience for every guest. Grand Banquet Hall also provides ample parking, customizable decor options, and professional event planners to bring your vision to life. Conveniently located and designed to impress, this venue offers the ideal blend of elegance and functionality to make your special day unforgettable.",
+    "description": "A luxurious event space with premium catering and elegant interiors.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png"
+    ],
+
+    "pricing": "$200 - $500 per event",
+    "reviews": [
+      {
+        "user": "JohnDoe",
+        "rating": 4.5,
+        "date": "January 2, 2025",
+        "comment": "Great ambiance and excellent service!"
+      },
+      {
+        "user": "JaneSmith",
+        "rating": 4.0,
+        "date": "January 2, 2025",
+        "comment": "The food was amazing, but the service was a bit slow."
+      }
+    ]
+  },
+  {
+    "id": 7,
+
+    "name": "Wedding Events",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Sunset Garden",
+    "tags": [
+      "Cozy and intimate setting",
+      "Great for creative cocktail",
+      "Lively"
+    ],
+    "detail": "Sunset Garden is a captivating outdoor venue that blends natural beauty with an air of elegance, creating the perfect setting for unforgettable events. Surrounded by vibrant flowers, lush greenery, and picturesque landscapes, the garden provides a serene atmosphere ideal for weddings, receptions, birthdays, and private celebrations. As the sun sets, the venue transforms into a magical haven with golden hues and ambient lighting, offering a breathtaking backdrop for your special moments. Sunset Garden features flexible layouts, modern facilities, and a dedicated team to ensure every detail is flawlessly executed. Whether it’s an intimate gathering or a grand celebration, this venue offers a unique charm that leaves a lasting impression on your guests. Experience the perfect balance of nature and sophistication at Sunset Garden, where every event becomes a cherished memory.",
+    "description": "A beautiful outdoor venue perfect for weddings and celebrations.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png"
+    ],
+
+    "pricing": "$300 - $700 per event",
+    "reviews": [
+      {
+        "user": "EmilyR",
+        "rating": 5.0,
+        "date": "January 2, 2025",
+        "comment": "The sunset view made our wedding unforgettable!"
+      },
+      {
+        "user": "MikeT",
+        "rating": 4.2,
+        "date": "January 2, 2025",
+        "comment": "Great venue, but parking was an issue."
+      }
+    ]
+  },
+  {
+    "id": 8,
+
+    "name": "Corporate Event",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Oceanview Ballroom",
+    "tags": ["Perfect for date nights", "Lively", "Cozy and intimate setting"],
+    "detail": "Oceanview Ballroom is a luxurious venue that offers spectacular panoramic views of the ocean, creating an unforgettable setting for any occasion. With its expansive floor-to-ceiling windows and contemporary design, the ballroom is bathed in natural light during the day and sparkles with an enchanting ambiance at night. Perfect for weddings, corporate events, parties, and galas, this versatile space can be customized to suit your event's unique needs. The venue boasts modern amenities, including advanced sound and lighting systems, ensuring a seamless and memorable experience for you and your guests. Oceanview Ballroom also features a spacious layout, elegant decor, and professional event planning services to bring your vision to life. Whether hosting an intimate gathering or a large celebration, this stunning venue provides the ideal blend of sophistication and scenic beauty, making it the ultimate choice for creating timeless memories.",
+    "description": "A stunning venue with panoramic ocean views and modern decor.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "ocean1.jpg",
+      "ocean2.jpg",
+      "ocean3.jpg"
+    ],
+
+    "pricing": "$400 - $900 per event",
+    "reviews": [
+      {
+        "user": "SarahL",
+        "rating": 4.8,
+        "date": "January 2, 2025",
+        "comment": "Best event experience ever! The view was breathtaking."
+      },
+      {
+        "user": "DavidP",
+        "rating": 4.3,
+        "date": "January 2, 2025",
+        "comment": "Loved the food and service, but the event ran a bit late."
+      }
+    ]
+  },
+  {
+    "id": 9,
+
+    "name": "Baby Shower",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Mountain Lodge Retreat",
+    "tags": [
+      "Live music and entertainment",
+      "Perfect for date nights",
+      "Lively"
+    ],
+    "detail": "Mountain Lodge Retreat is a charming and tranquil venue nestled in the heart of stunning mountain scenery, offering a perfect escape for unforgettable events. Surrounded by breathtaking views, lush greenery, and fresh air, this retreat is ideal for weddings, corporate retreats, family gatherings, and special celebrations. The lodge features cozy interiors with rustic wooden beams, stone fireplaces, and expansive windows that let in natural light and showcase the beautiful surroundings. Outdoor spaces include scenic decks, open grounds, and picturesque backdrops for ceremonies and photos. Modern amenities such as high-speed Wi-Fi, audio-visual equipment, and comfortable accommodations ensure a seamless experience for your guests. With on-site event planning support and customizable options, Mountain Lodge Retreat provides everything you need for a personalized and memorable event. Whether you seek adventure or relaxation, this venue offers the perfect blend of nature and comfort for any occasion.",
+    "description": "A stunning venue with panoramic ocean views and modern decor.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png"
+    ],
+
+    "pricing": "$250 - $600 per event",
+    "reviews": [
+      {
+        "user": "AnnaM",
+        "rating": 4.7,
+        "date": "January 2, 2025",
+        "comment": "Such a relaxing and beautiful place for our retreat!"
+      },
+      {
+        "user": "ChrisB",
+        "rating": 4.5,
+        "date": "January 2, 2025",
+        "comment": "Great for small gatherings, but limited seating indoors."
+      }
+    ]
+  },
+  {
+    "id": 10,
+
+    "name": "Gender Reveal Party",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Downtown Conference Center",
+    "tags": [
+      "Trendy and stylish ambiance",
+      "Ideal for group gatherings",
+      "Trendy"
+    ],
+    "detail": "Downtown Conference Center is a premier venue designed to meet the needs of modern professionals, offering an exceptional space for business events and gatherings. Located in the heart of the city, the center provides unmatched convenience and accessibility for attendees. Its sleek, contemporary design includes spacious meeting rooms, fully equipped with high-speed internet, cutting-edge audio-visual technology, and customizable seating arrangements. Whether you're hosting conferences, corporate workshops, seminars, or board meetings, the venue caters to events of all sizes with precision and professionalism. Breakout areas and lounge spaces are available for networking and relaxation, ensuring a productive yet comfortable atmosphere. Additionally, the center’s proximity to top restaurants, hotels, and transportation options makes it an ideal choice for out-of-town guests. Supported by a dedicated event management team, Downtown Conference Center ensures a seamless and successful event experience.",
+    "description": "A modern venue with state-of-the-art facilities for corporate events.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "conference1.jpg",
+      "conference2.jpg",
+      "conference3.jpg"
+    ],
+
+    "pricing": "$500 - $1000 per event",
+    "reviews": [
+      {
+        "user": "MarkC",
+        "rating": 4.9,
+        "date": "January 2, 2025",
+        "comment": "Perfect for large business conferences with excellent amenities."
+      },
+      {
+        "user": "LindaW",
+        "rating": 4.6,
+        "date": "January 2, 2025",
+        "comment": "Great location and facilities, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "id": 11,
+
+    "name": "Graduation Party",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Royal Palace Venue",
+    "tags": [
+      "Ideal for group gatherings",
+      "Trendy and stylish ambiance",
+      "Lively"
+    ],
+    "detail": "Royal Palace Venue is a luxurious and opulent setting that brings timeless elegance to any event. Featuring grand architecture, stunning crystal chandeliers, and intricately designed interiors, this venue creates a regal ambiance that is perfect for weddings, gala dinners, corporate events, and grand celebrations. The spacious layout can accommodate both intimate gatherings and large-scale events, offering flexibility and comfort for guests. With state-of-the-art amenities, including advanced sound and lighting systems, Royal Palace Venue ensures every detail is handled with perfection. The venue also provides customizable decor options and a team of professional event planners to bring your vision to life. Conveniently located and designed to impress, Royal Palace Venue is the ideal choice for those looking to host a truly unforgettable and majestic event. Let your special occasion shine in a setting fit for royalty.",
+    "description": "A regal venue offering a grand atmosphere for weddings and corporate events.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "palace1.jpg",
+      "palace2.jpg",
+      "palace3.jpg"
+    ],
+
+    "pricing": "$800 - $1500 per event",
+    "reviews": [
+      {
+        "user": "SophiaK",
+        "rating": 4.9,
+        "date": "January 2, 2025",
+        "comment": "Felt like a dream wedding! Exceptional service and decor."
+      },
+      {
+        "user": "RobertF",
+        "rating": 4.7,
+        "date": "January 2, 2025",
+        "comment": "Amazing experience, but the catering was slightly delayed."
+      }
+    ]
+  },
+  {
+    "id": 12,
+
+    "name": "Charity Gala",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Rustic Barn Events",
+    "tags": [
+      "Cozy and intimate setting",
+      "Great for creative cocktail",
+      "Trendy"
+    ],
+    "detail": "Rustic Barn Events is a charming and picturesque venue that combines rustic elegance with a warm and inviting atmosphere. Perfect for weddings, family reunions, corporate retreats, and special celebrations, this venue offers a unique blend of countryside charm and modern amenities. The beautifully restored barn features high wooden beams, twinkling string lights, and spacious interiors that can be customized to fit your event’s style and theme. Surrounding outdoor areas include lush greenery, scenic views, and cozy fire pits, creating a serene and relaxed environment for guests to enjoy. Rustic Barn Events also provides ample parking, on-site event coordination, and optional catering services to ensure a seamless experience. Whether you’re planning an intimate gathering or a larger celebration, this venue offers a memorable and enchanting setting for creating unforgettable moments with loved ones.",
+    "description": "A charming barn-style venue for rustic weddings and country-style events.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png"
+    ],
+
+    "pricing": "$300 - $800 per event",
+    "reviews": [
+      {
+        "user": "EmmaT",
+        "rating": 4.8,
+        "date": "January 2, 2025",
+        "comment": "Beautiful venue with a cozy, country vibe. Highly recommend!"
+      },
+      {
+        "user": "JackB",
+        "rating": 4.5,
+        "date": "January 2, 2025",
+        "comment": "A bit hard to find, but totally worth it!"
+      }
+    ]
+  },
+  {
+    "id": 13,
+
+    "name": "Retirement Celebration",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Skyline Rooftop",
+    "tags": [
+      "Trendy and stylish ambiance",
+      "Trendy",
+      "Live music and entertainment"
+    ],
+    "detail": "Skyline Rooftop is a sleek and modern venue that offers breathtaking panoramic views of the city skyline, making it the perfect location for unforgettable events. Ideal for weddings, cocktail parties, corporate gatherings, and private celebrations, this rooftop space combines contemporary design with an open-air ambiance. The venue features stylish seating arrangements, customizable decor options, and advanced lighting and sound systems to create the perfect atmosphere for any occasion. As day turns to night, Skyline Rooftop transforms into a stunning setting with twinkling city lights serving as a magical backdrop. Conveniently located in the heart of the city, the venue provides easy access for guests and offers exceptional service to ensure your event is flawlessly executed. Whether you're hosting an intimate gathering or a grand celebration, Skyline Rooftop promises an elevated experience with unforgettable views and memories.",
+    "description": "A stylish rooftop venue with stunning city skyline views.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "rooftop1.jpg",
+      "rooftop2.jpg",
+      "rooftop3.jpg"
+    ],
+
+    "pricing": "$600 - $1200 per event",
+    "reviews": [
+      {
+        "user": "ChrisM",
+        "rating": 4.9,
+        "date": "January 2, 2025",
+        "comment": "The best rooftop venue in the city! Amazing atmosphere."
+      },
+      {
+        "user": "LucyH",
+        "rating": 4.6,
+        "date": "January 2, 2025",
+        "comment": "Great place for a party, but a bit expensive."
+      }
+    ]
+  },
+  {
+    "id": 14,
+
+    "name": "Anniversary Dinner",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "Beachside Pavilion",
+    "tags": [
+      "Trendy and stylish ambiance",
+      "Good for special occassipns",
+      "Lively"
+    ],
+    "detail": "Beachside Pavilion is a breathtaking venue that offers a perfect blend of coastal charm and elegant design. Located just steps away from the shoreline, this venue is ideal for weddings, receptions, corporate events, and celebrations of all kinds. The pavilion features an open-air layout with stunning views of the ocean, gentle sea breezes, and the soothing sound of waves in the background. With flexible seating arrangements and customizable decor, the space can be tailored to suit both intimate gatherings and larger celebrations. Modern amenities, including advanced lighting and sound systems, ensure a seamless event experience. Beachside Pavilion also provides dedicated event planning support, helping you create a memorable occasion in a serene and picturesque setting. Whether it’s a romantic sunset wedding or a lively beachside party, this venue offers an unforgettable experience for you and your guests.",
+    "description": "A beachfront venue offering the perfect setting for tropical-themed events.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png"
+    ],
+
+    "pricing": "$500 - $1100 per event",
+    "reviews": [
+      {
+        "user": "NathanW",
+        "rating": 4.8,
+        "date": "January 2, 2025",
+        "comment": "A dream venue for a beach wedding. The waves added a magical touch!"
+      },
+      {
+        "user": "LauraC",
+        "rating": 4.4,
+        "date": "January 2, 2025",
+        "comment": "Fantastic experience, but the sand can be tricky in formal shoes."
+      }
+    ]
+  },
+  {
+    "id": 15,
+
+    "name": "Festival Celebration",
+    "price": {
+      "standardPrice": 20,
+      "outStandardPrice": 30
+    },
+    "venue_name": "The Vintage Loft",
+    "tags": ["Perfect for date nights", "Cozy and intimate setting", "Lively"],
+    "detail": "The Vintage Loft is a sophisticated venue that seamlessly combines historic charm with modern elegance, making it a perfect choice for weddings, private parties, and corporate events. With its exposed brick walls, high ceilings, and rustic wooden floors, the loft exudes a warm and inviting ambiance. Large windows flood the space with natural light during the day, while ambient lighting creates a cozy atmosphere for evening gatherings. The versatile layout allows for customized seating and decor, ensuring your event reflects your unique style. Equipped with modern amenities, including advanced sound systems and event planning services, The Vintage Loft guarantees a seamless experience for hosts and guests alike. Conveniently located in a vibrant area, this venue is easily accessible and surrounded by nearby dining and entertainment options. Whether it’s an intimate gathering or a grand celebration, The Vintage Loft provides an unforgettable setting for any special occasion.",
+    "description": "An artistic loft venue with an industrial-chic atmosphere for creative events.",
+    "gallery": [
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png",
+      "/images/venues/event_03.png"
+    ],
+
+    "pricing": "$400 - $900 per event",
+    "reviews": [
+      {
+        "user": "AlexD",
+        "rating": 4.7,
+        "date": "January 2, 2025",
+        "comment": "Great vibe for an artsy wedding or photoshoot!"
+      },
+      {
+        "user": "MeganS",
+        "rating": 4.5,
+        "date": "January 2, 2025",
+        "comment": "Loved the ambiance, but parking was a bit limited."
+      }
+    ]
+  }
+]

@@ -1,0 +1,392 @@
+{
+  "categories": [
+    {
+      "name": "Desserts",
+      "img": "/images/menu/cate/dessert.png",
+
+      "items": [
+        {
+          "name": "Kheer",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 20
+        },
+        {
+          "name": "Gulab Jamun",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 30
+        },
+        {
+          "name": "Ras Malai",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Jalebi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "Shahi Tukray",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "name": "Karahi",
+      "img": "/images/menu/cate/karahi.png",
+
+      "items": [
+        {
+          "name": "Hadi Karahi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 30
+        },
+        {
+          "name": "Chicken Karahi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Mutton Karahi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "White Karahi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        },
+        {
+          "name": "Beef Karahi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "name": "BBQ",
+      "img": "/images/menu/cate/bbq.png",
+
+      "items": [
+        {
+          "name": "Seekh Kabab",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 25
+        },
+        {
+          "name": "Chicken Tikka",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 35
+        },
+        {
+          "name": "Malai Boti",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 45
+        },
+        {
+          "name": "Beef Boti",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 55
+        },
+        {
+          "name": "Fish Tikka",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 65
+        }
+      ]
+    },
+    {
+      "name": "Biryani and Rice",
+      "img": "/images/menu/cate/biryani.png",
+
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 20
+        },
+        {
+          "name": "Mutton Biryani",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 30
+        },
+        {
+          "name": "Pulao",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Beef Biryani",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "Special Karachi Biryani",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "img": "/images/menu/cate/snack.png",
+
+      "items": [
+        {
+          "name": "Samosa",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 15
+        },
+        {
+          "name": "Pakora",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 25
+        },
+        {
+          "name": "Chaat",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 35
+        },
+        {
+          "name": "Gol Gappay",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 45
+        },
+        {
+          "name": "Roll Paratha",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 55
+        }
+      ]
+    },
+    {
+      "name": "Special Dishes",
+      "img": "/images/menu/cate/special_dish.png",
+
+      "items": [
+        {
+          "name": "Nihari",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 30
+        },
+        {
+          "name": "Haleem",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Payee",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "Kunna Gosht",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        },
+        {
+          "name": "Chicken Handi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "img": "/images/menu/cate/bevarages.png",
+
+      "items": [
+        {
+          "name": "Lassi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 20
+        },
+        {
+          "name": "Mint Lemonade",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 30
+        },
+        {
+          "name": "Rooh Afza",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Soft Drink",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "Green Tea",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        },
+        {
+          "name": "Fruit Punch",
+          "img": "/images/res.jpg",
+          "des": "A refreshing mix of fruits and juice",
+          "price": 35
+        },
+        {
+          "name": "Coconut Water",
+          "img": "/images/res.jpg",
+          "des": "Natural and hydrating, served chilled",
+          "price": 25
+        },
+        {
+          "name": "Herbal Cooler",
+          "img": "/images/res.jpg",
+          "des": "Infused with herbs for a calming start",
+          "price": 45
+        }
+      ]
+    },
+    {
+      "name": "Seafood",
+      "img": "/images/menu/cate/sea_food.png",
+
+      "items": [
+        {
+          "name": "Grilled Fish",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Prawn Masala",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "Fish Karahi",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        },
+        {
+          "name": "Fried Fish",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 70
+        },
+        {
+          "name": "Prawn Biryani",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "name": "Fast Food",
+      "img": "/images/menu/cate/fast_food.png",
+
+      "items": [
+        {
+          "name": "Zinger Burger",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 30
+        },
+        {
+          "name": "Club Sandwich",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Shawarma",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "Cheese Fries",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        },
+        {
+          "name": "Chicken Nuggets",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "name": "Vegetarian Dishes",
+      "img": "/images/menu/cate/vege_01.png",
+
+      "items": [
+        {
+          "name": "Aloo Palak",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 20
+        },
+        {
+          "name": "Mixed Vegetable Curry",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 30
+        },
+        {
+          "name": "Daal Makhani",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 40
+        },
+        {
+          "name": "Bhindi Masala",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 50
+        },
+        {
+          "name": "Baingan Bharta",
+          "img": "/images/res.jpg",
+          "des": "Lorem, deren, trataro, filede, nerada",
+          "price": 60
+        }
+      ]
+    }
+  ]
+}

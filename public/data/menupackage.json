@@ -1,0 +1,113 @@
+{
+  "packages": [
+    {
+      "name": "Tea Package",
+      "price": 500,
+      "includes": ["Beverages (choose 1 option)", "Snacks (choose 2 options)"]
+    },
+    {
+      "name": "Normal Package",
+      "price": 1500,
+      "includes": [
+        "Beverages (choose 1 option)",
+        "Snacks (choose 3 options)",
+        "Biryani and Rice (choose 1 option)"
+      ]
+    },
+    {
+      "name": "Standard Package",
+      "price": 3000,
+      "includes": [
+        "Beverages (choose 1 option)",
+        "BBQ (choose 2 options)",
+        "Karahi (choose 1 option)",
+        "Biryani and Rice (choose 1 option)",
+        "Desserts (choose 1 option)",
+        "Additional Services: Basic Decor"
+      ]
+    },
+    {
+      "name": "Outstanding Package",
+      "price": 5000,
+      "includes": [
+        "Beverages (choose 2 options)",
+        "BBQ (choose 3 options)",
+        "Karahi (choose 2 options)",
+        "Biryani and Rice (choose 2 options)",
+        "Desserts (choose 2 options)",
+        "Snacks (choose 2 options)",
+        "Additional Services: Premium Decor, Live Music"
+      ]
+    },
+    {
+      "name": "Family Feast Package",
+      "price": 4000,
+      "includes": [
+        "Beverages (choose 2 options)",
+        "Snacks (choose 3 options)",
+        "Karahi (choose 1 option)",
+        "Biryani and Rice (choose 1 option)",
+        "Desserts (choose 1 option)"
+      ]
+    },
+    {
+      "name": "Corporate Event Package",
+      "price": 6000,
+      "includes": [
+        "Beverages (choose 2 options)",
+        "BBQ (choose 3 options)",
+        "Karahi (choose 2 options)",
+        "Biryani and Rice (choose 2 options)",
+        "Desserts (choose 2 options)",
+        "Snacks (choose 2 options)",
+        "Additional Services: Projector Setup, Reserved Seating"
+      ]
+    },
+    {
+      "name": "Luxury Banquet Package",
+      "price": 8000,
+      "includes": [
+        "Beverages (choose 3 options)",
+        "BBQ (choose 4 options)",
+        "Karahi (choose 2 options)",
+        "Biryani and Rice (choose 2 options)",
+        "Desserts (choose 3 options)",
+        "Snacks (choose 2 options)",
+        "Additional Services: Custom Decor, Valet Parking, Live Entertainment"
+      ]
+    },
+    {
+      "name": "Kids Party Package",
+      "price": 2500,
+      "includes": [
+        "Beverages (choose 2 options)",
+        "Snacks (choose 3 options)",
+        "Desserts (choose 1 option)",
+        "Additional Services: Balloons, Fun Decor"
+      ]
+    },
+    {
+      "name": "Cultural Celebration Package",
+      "price": 4500,
+      "includes": [
+        "Beverages (choose 2 options)",
+        "Karahi (choose 2 options)",
+        "Biryani and Rice (choose 2 options)",
+        "Desserts (choose 1 option)",
+        "Snacks (choose 3 options)",
+        "Additional Services: Traditional Decor"
+      ]
+    },
+    {
+      "name": "Couple Celebration Package",
+      "price": 3500,
+      "includes": [
+        "Beverages (choose 2 options)",
+        "BBQ (choose 1 option)",
+        "Karahi (choose 1 option)",
+        "Desserts (choose 1 option)",
+        "Additional Services: Romantic Decor"
+      ]
+    }
+  ]
+}

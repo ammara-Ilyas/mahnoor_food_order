@@ -1,0 +1,83 @@
+{
+  "events": [
+    {
+      "name": "Standard Birthday Party",
+      "standardPrice": 20,
+      "outStandardPrice": 30,
+      "description": "A fun and festive birthday party with basic decorations and entertainment."
+    },
+    {
+      "name": "Theme Wedding Party",
+      "standardPrice": 25,
+      "outStandardPrice": 35,
+      "description": "A themed wedding event with custom decorations, entertainment, and venue setup."
+    },
+    {
+      "name": "Wedding Proposal",
+      "standardPrice": 20,
+      "outStandardPrice": 30,
+      "description": "A memorable wedding proposal setup with romantic decor and arrangements."
+    },
+    {
+      "name": "Bridal Shower",
+      "standardPrice": 22,
+      "outStandardPrice": 32,
+      "description": "A charming bridal shower with tailored decorations and light refreshments."
+    },
+    {
+      "name": "Wedding Anniversary",
+      "standardPrice": 25,
+      "outStandardPrice": 35,
+      "description": "A lovely anniversary celebration with elegant decor and optional catering."
+    },
+    {
+      "name": "Casual Dinner Party",
+      "standardPrice": 20,
+      "outStandardPrice": 30,
+      "description": "A simple yet cozy dinner party setup for family and friends."
+    },
+    {
+      "name": "Wedding Events",
+      "standardPrice": 30,
+      "outStandardPrice": 40,
+      "description": "Comprehensive wedding event services including venue, decor, and catering."
+    },
+    {
+      "name": "Corporate Event",
+      "standardPrice": 25,
+      "outStandardPrice": 35,
+      "description": "Professional corporate event setup with audiovisual and other services."
+    },
+    {
+      "name": "Baby Shower",
+      "standardPrice": 22,
+      "outStandardPrice": 32,
+      "description": "A delightful baby shower event with themed decor."
+    },
+    {
+      "name": "Gender Reveal Party",
+      "standardPrice": 20,
+      "outStandardPrice": 30,
+      "description": "A creative gender reveal event with fun surprises and decorative elements."
+    },
+    {
+      "name": "Graduation Party",
+      "standardPrice": 23,
+      "outStandardPrice": 33,
+      "description": "Celebrate academic success with a party tailored to graduates' achievements."
+    },
+    {
+      "name": "Engagement Party",
+      "standardPrice": 25,
+      "outStandardPrice": 35,
+      "description": "A beautiful engagement party with floral decor and light refreshments."
+    },
+    {
+      "name": "Festival Celebration",
+
+      "standardPrice": 25,
+      "outStandardPrice": 35,
+      "description": "Customizable festival celebrations for Eid, Diwali, Christmas, and more."
+    }
+  ]
+}
